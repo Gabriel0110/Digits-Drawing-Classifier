@@ -5,6 +5,6 @@ You can choose to train your own model by simply implementing it into the train_
 
 ![GUI](mnist_gui_02.png)
 
-![Training_progress](mnist_gui_01.png)
+![Training_progress](https://github.com/Gabriel0110/Digits-Drawing-Classifier/blob/master/mnist_gui_01.PNG)
 
 ![In_Action](mnist_gui_03.png)
