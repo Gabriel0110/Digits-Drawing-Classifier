@@ -6,8 +6,7 @@ from PIL import Image, ImageDraw
 import tensorflow as tf
 from tensorflow.keras.datasets import mnist
 from tensorflow.keras.utils import to_categorical
-from tensorflow.keras.callbacks import ModelCheckpoint
-from tensorflow.keras.callbacks import EarlyStopping
+from tensorflow.keras.callbacks import ModelCheckpoint, EarlyStopping
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import load_model
 import matplotlib.pyplot as plt
